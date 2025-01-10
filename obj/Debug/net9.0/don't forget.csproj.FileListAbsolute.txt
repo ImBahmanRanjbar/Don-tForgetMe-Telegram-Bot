@@ -1,0 +1,17 @@
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\don't forget.exe
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\don't forget.deps.json
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\don't forget.runtimeconfig.json
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\don't forget.dll
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\don't forget.pdb
+C:\Users\sadat system\Desktop\don't forget\don't forget\bin\Debug\net9.0\Telegram.Bot.dll
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.csproj.AssemblyReference.cache
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.AssemblyInfoInputs.cache
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.AssemblyInfo.cs
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.csproj.CoreCompileInputs.cache
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't fo.3C42CBF7.Up2Date
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.dll
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\refint\don't forget.dll
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.pdb
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\don't forget.genruntimeconfig.cache
+C:\Users\sadat system\Desktop\don't forget\don't forget\obj\Debug\net9.0\ref\don't forget.dll
