@@ -11,3 +11,6 @@ Don'tForgetUs is a Telegram bot that, once started by a user, records the start 
 1. Launch the bot by sending the `/start` command.
 2. The bot records the time you started it.
 3. Receive a daily message at that same time.
+
+# Status
+The bot with the username `@fromheroBahmanbot` exists, but it is currently inactive due to hosting issues.
