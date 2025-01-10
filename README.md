@@ -1,4 +1,4 @@
-# Don-tForgetMe-Telegram-Bot
+# Dont-ForgetMe-Telegram-Bot
 
 # Description
 Don'tForgetUs is a Telegram bot that, once started by a user, records the start time and sends a simple, heartfelt message, "I love you ❤️," at that same time every day.
